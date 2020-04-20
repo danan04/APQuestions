@@ -31,3 +31,4 @@ public class Unit7Q18
         return c;
     }
 }
+/*30 and 10 are swapped. Then 40 and 20 are swapped. then 50 and 40 are swapped --> 3 shifts occur
